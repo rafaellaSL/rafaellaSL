@@ -17,9 +17,9 @@
 
 
 <div style="display: flex">
-  <a href="https://github.com/luislaudacio">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=llimaaxx&show_icons=true&theme=synthwave"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llimaaxx&layout=compact&langs_count=5&theme=synthwave"/>
+  <a href="https://github.com/rafaellaSL">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rafaellaSL&show_icons=true&theme=synthwave"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaellaSL&layout=compact&langs_count=5&theme=synthwave"/>
 </div>
 
 <h2 align="left">
