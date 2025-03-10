@@ -2,7 +2,7 @@
 
 - 🎓 Estudante da FICS SP - Análise e Deselvolvimento de Sistemas (ADS)
 - 🌱 Estou sempre em busca de conhecimento e desafios para aprender e crescer.
-- 👩🏻‍💻 Estagiária na Telefônica Brasil - VIVO
+- 👩🏻‍💻 A procura de uma nova oportunidade.
 
 ##
 
