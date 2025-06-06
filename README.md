@@ -102,9 +102,6 @@ Olá me chamo Rafaella Lima, tenho 21 anos e sou natural de São Paulo. Atualmen
  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />
   
-
-
-
 <br/>
 <br/>
 
