@@ -2,7 +2,7 @@
 
 **`Desenvolvedora`**
 
-Olá me chamo Rafaella Lima, tenho 21 anos e sou natural de São Paulo. Atualmente, estou na reta final do curso Análise e Desenvolvimento de Sistemas na FICS. Minha trajetória na área de TI começou no fundamental e desde lá estou em busca de me desenvolver profissionalmente e pessoal também. Sou apaixonada por tecnologia e tualmente, estou focada em desenvolver projetos próprios e contribuir com a comunidade de tecnologia. Aqui no meu GitHub, você vai encontrar alguns dos meus projetos em desenvolvimento, estudos e experiências com diferentes linguagens e frameworks.
+Olá me chamo Rafaella Lima, tenho 22 anos e sou natural de São Paulo. Atualmente, estou formada em  Desenvolvimento de Sistemas na FICS. Minha trajetória na área de TI começou no fundamental e desde lá estou em busca de me desenvolver profissionalmente. Sou apaixonada por tecnologia e tualmente, estou focada em desenvolver projetos próprios e contribuir com a comunidade de tecnologia. Aqui no meu GitHub, você vai encontrar alguns dos meus projetos em desenvolvimento, estudos e experiências com diferentes linguagens e frameworks.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/lima-rafaella/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
